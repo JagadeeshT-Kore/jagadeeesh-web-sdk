@@ -3,7 +3,7 @@ import {WebKitSTT} from '../../../../../dist/kore-web-sdk.esm.browser.js';
 
 let chatWindowInstance = new chatWindow();
 
-//OPTION #1
+//OPTION #1b
 let botOptions=chatConfig.botOptions;
 
 botOptions.JWTUrl = "PLEASE_ENTER_JWTURL_HERE"; 
